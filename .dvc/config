@@ -1,0 +1,5 @@
+[core]
+    analytics = false
+    remote = dvc_tutorial
+['remote "dvc_tutorial"']
+    url = gdrive://1hCe_vtb6hTk7ogKMIabnJYu190DGWUXR
